@@ -6,8 +6,9 @@
     "address": "0x8F912e0b1971E5e16bc5834d1A34667B5Ec38CcA",
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/nensailimited-hash/usdtz-demo2/main/logo.png",
-    "description": "USDT.z is a demonstration BEP20 token on BNB Smart Chain. It showcases upgradeable ERC1967 proxy contracts (V1-V8) and a 1:1 demo liquidity pool on PancakeSwap. This token is strictly educational and not affiliated with Tether.",
+    "description": "USDT.z is a demonstration BEP20 token on BNB Smart Chain. It uses upgradeable ERC1967 proxy contracts (V1–V8) and a 1:1 demo liquidity pool on PancakeSwap. This token is strictly educational and not affiliated with Tether.",
     "website": "https://github.com/nensailimited-hash/usdtz-demo2",
     "explorer": "https://bscscan.com/address/0x8F912e0b1971E5e16bc5834d1A34667B5Ec38CcA"
   }
 ]
+
